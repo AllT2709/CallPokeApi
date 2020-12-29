@@ -1,0 +1,28 @@
+{
+  "name": "callPokeApi",
+  "version": "1.0.0",
+  "description": "(practica backend)Llamar a una api externa",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllT2709/CallPokeApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllT2709/CallPokeApi/issues"
+  },
+  "homepage": "https://github.com/AllT2709/CallPokeApi#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
